@@ -5,11 +5,12 @@ Research Systems lock-in amplifiers via a National Instruments USB-to-GPIB
 (IEEE488.2) interface cable. The software was created by Connor D. Pierce while
 a Ph.D. student at the University of Illinois.
 
-This software is licensed under the terms of the MIT License, a copy of which
-may be found in the file "LICENSE".
+With the exception of the National Instruments header file "ni4882.h", this
+software is licensed under the terms of the MIT License, a copy of which may be
+found in the file "LICENSE".
 
 
-# BUILDING
+# COMPILING THIS SOFTWARE
 
 This software was created using the Orwell Dev-C++ IDE. The easiest way to build
 this software is to download and install Dev-C++, then load the
